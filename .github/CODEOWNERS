@@ -1,3 +1,4 @@
 *.js @luan-prates
 .github/ @luan-prates
 *.go @luanprates
+*.html @luanprates
